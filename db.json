@@ -1,0 +1,616 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "user": [
+    {
+      "id": "193d",
+      "name": "sd",
+      "email": "dsd",
+      "password": "dsd"
+    },
+    {
+      "id": "6adb",
+      "name": "som",
+      "email": "ss@ss.ss",
+      "password": "123"
+    },
+    {
+      "id": "9ac3",
+      "name": "ss",
+      "email": "uss",
+      "password": "uss"
+    },
+    {
+      "id": "0206",
+      "name": "Sujata",
+      "email": "sujata@ss.ss",
+      "password": "123456"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "product": "Dining Greate Furniture",
+      "image": {
+        "src": "img/image1.png",
+        "alt": "Syltherine"
+      },
+      "sortdes": "Stylish cafe chair",
+      "price": 2500,
+      "details": "Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.",
+      "imagegallery": [
+        {
+          "itemImageSrc": "/productImg/dining1b1.jpeg",
+          "thumbnailImageSrc": "/productImg/dining1b1.jpeg",
+          "alt": "img1",
+          "color": "#000",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining1b2.jpeg",
+          "thumbnailImageSrc": "/productImg/dining1b2.jpeg",
+          "alt": "img3",
+          "color": "#000",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining1r1.jpeg",
+          "thumbnailImageSrc": "/productImg/dining1r1.jpeg",
+          "alt": "img2",
+          "color": "#C2510B",
+          "size": "xxl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining1r2.jpeg",
+          "thumbnailImageSrc": "/productImg/dining1r2.jpeg",
+          "alt": "img1",
+          "color": "#C2510B",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining1w1.jpg",
+          "thumbnailImageSrc": "/productImg/dining1w1.jpg",
+          "alt": "img1",
+          "color": "#fff",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining1w2.jpeg",
+          "thumbnailImageSrc": "/productImg/dining1w2.jpeg",
+          "alt": "img1",
+          "color": "#fff",
+          "size": "xxl"
+        }
+      ],
+      "Like": 0,
+      "sku": "SS001",
+      "category": "sofas",
+      "proSpecification": "Embodying the raw, wayward spirit of rock and roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road. Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+      "additionalInfo": "  additionalInfo  additionalInfo  additionalInfo",
+      "review": [
+        {
+          "reviewTxt": "good dyning set",
+          "userRating": 4,
+          "user": "Sujata"
+        },
+        {
+          "reviewTxt": "good dyning set",
+          "userRating": 4,
+          "user": "Sujata"
+        }
+      ],
+      "rating": "44",
+      "offprice": -40,
+      "relation": [
+        "dining",
+        "chair"
+      ],
+      "apprence": true
+    },
+    {
+      "id": "2",
+      "product": "Dfdssf fsdfsdfhk hgfhgdshg",
+      "image": {
+        "src": "img/image1.png",
+        "alt": "Syltherine"
+      },
+      "sortdes": "1234 578 325",
+      "price": 2500,
+      "details": "Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.",
+      "imagegallery": [
+        {
+          "itemImageSrc": "/productImg/dining2r1.jpeg",
+          "thumbnailImageSrc": "/productImg/dining2r1.jpeg",
+          "alt": "img1",
+          "color": "#C2510B",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining2b1.jpeg",
+          "thumbnailImageSrc": "/productImg/dining2b1.jpeg",
+          "alt": "img3",
+          "color": "#000",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining2r2.jpg",
+          "thumbnailImageSrc": "/productImg/dining2r2.jpg",
+          "alt": "img2",
+          "color": "#C2510B",
+          "size": "xxl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining2r2.jpg",
+          "thumbnailImageSrc": "/productImg/dining2r2.jpg",
+          "alt": "img1",
+          "color": "yellow",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining2y2.jpg",
+          "thumbnailImageSrc": "/productImg/dining2y2.jpg",
+          "alt": "img1",
+          "color": "yellow",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining2y3.jpg",
+          "thumbnailImageSrc": "/productImg/dining2y3.jpg",
+          "alt": "img1",
+          "color": "yellow",
+          "size": "xxl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining2y3xxl.jpg",
+          "thumbnailImageSrc": "/productImg/dining2y3xxl.jpg",
+          "alt": "img1",
+          "color": "yellow",
+          "size": "xxl"
+        }
+      ],
+      "Like": 0,
+      "sku": "SS001",
+      "category": "sofas",
+      "proSpecification": "Embodying the raw, wayward spirit of rock and roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road. Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+      "additionalInfo": "  additionalInfo  additionalInfo  additionalInfo",
+      "review": "",
+      "rating": "",
+      "offprice": -30,
+      "relation": [
+        "chair",
+        "table"
+      ],
+      "apprence": true
+    },
+    {
+      "id": "3",
+      "product": "Dfdssf fsdfsdfhk hgfhgdshg",
+      "image": {
+        "src": "img/image1.png",
+        "alt": "Syltherine"
+      },
+      "sortdes": "1234 578 325",
+      "price": 2500,
+      "details": "Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.",
+      "imagegallery": [
+        {
+          "itemImageSrc": "/productImg/dining3blu1.jpeg",
+          "thumbnailImageSrc": "/productImg/dining3blu1.jpeg",
+          "alt": "img1",
+          "color": "blue",
+          "size": "x"
+        },
+        {
+          "itemImageSrc": "/productImg/dining3w1xxl.jpeg",
+          "thumbnailImageSrc": "/productImg/dining3w1xxl.jpeg",
+          "alt": "img3",
+          "color": "#fff",
+          "size": "xxl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining3r1.jpeg",
+          "thumbnailImageSrc": "/productImg/dining3r1.jpeg",
+          "alt": "img2",
+          "color": "#C2510B",
+          "size": "l"
+        },
+        {
+          "itemImageSrc": "/productImg/dining3w2xxl.jpeg",
+          "thumbnailImageSrc": "/productImg/dining3w2xxl.jpeg",
+          "alt": "img1",
+          "color": "#fff",
+          "size": "xxl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining3w3xxl.jpeg",
+          "thumbnailImageSrc": "/productImg/dining3w3xxl.jpeg",
+          "alt": "img1",
+          "color": "#fff",
+          "size": "xxl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining3w4xl.jpeg",
+          "thumbnailImageSrc": "/productImg/dining3w4xl.jpeg",
+          "alt": "img1",
+          "color": "yellow",
+          "size": "xl"
+        }
+      ],
+      "Like": 0,
+      "sku": "SS001",
+      "category": "sofas",
+      "proSpecification": "Embodying the raw, wayward spirit of rock and roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road. Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+      "additionalInfo": "  additionalInfo  additionalInfo  additionalInfo",
+      "review": "",
+      "rating": "",
+      "offprice": -10,
+      "relation": [
+        "dining",
+        "chair",
+        "table"
+      ],
+      "apprence": true
+    },
+    {
+      "id": "4",
+      "product": "Dfdssf fsdfsdfhk hgfhgdshg",
+      "image": {
+        "src": "img/image1.png",
+        "alt": "Syltherine"
+      },
+      "sortdes": "1234 578 325",
+      "price": 2500,
+      "details": "Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.",
+      "imagegallery": [
+        {
+          "itemImageSrc": "/productImg/dining3blu1.jpeg",
+          "thumbnailImageSrc": "/productImg/dining3blu1.jpeg",
+          "alt": "img1",
+          "color": "blue",
+          "size": "x"
+        },
+        {
+          "itemImageSrc": "/productImg/dining3w1xxl.jpeg",
+          "thumbnailImageSrc": "/productImg/dining3w1xxl.jpeg",
+          "alt": "img3",
+          "color": "#fff",
+          "size": "xxl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining3r1.jpeg",
+          "thumbnailImageSrc": "/productImg/dining3r1.jpeg",
+          "alt": "img2",
+          "color": "#C2510B",
+          "size": "l"
+        },
+        {
+          "itemImageSrc": "/productImg/dining3w2xxl.jpeg",
+          "thumbnailImageSrc": "/productImg/dining3w2xxl.jpeg",
+          "alt": "img1",
+          "color": "#fff",
+          "size": "xxl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining3w3xxl.jpeg",
+          "thumbnailImageSrc": "/productImg/dining3w3xxl.jpeg",
+          "alt": "img1",
+          "color": "#fff",
+          "size": "xxl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining3w4xl.jpeg",
+          "thumbnailImageSrc": "/productImg/dining3w4xl.jpeg",
+          "alt": "img1",
+          "color": "yellow",
+          "size": "xl"
+        }
+      ],
+      "Like": 0,
+      "sku": "SS001",
+      "category": "sofas",
+      "proSpecification": "Embodying the raw, wayward spirit of rock and roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road. Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+      "additionalInfo": "  additionalInfo  additionalInfo  additionalInfo",
+      "review": "",
+      "rating": "",
+      "offprice": -10,
+      "relation": [
+        "dining",
+        "chair",
+        "table"
+      ],
+      "apprence": true
+    },
+    {
+      "id": "5",
+      "product": "Sofa Greate",
+      "image": {
+        "src": "img/image1.png",
+        "alt": "Syltherine"
+      },
+      "sortdes": "1234 578 325",
+      "price": 2000,
+      "details": "Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.",
+      "imagegallery": [
+        {
+          "itemImageSrc": "/productImg/sofa1c.jpeg",
+          "thumbnailImageSrc": "/productImg/sofa1c.jpeg",
+          "alt": "img1",
+          "color": "#FFF3E3",
+          "size": "x"
+        },
+        {
+          "itemImageSrc": "/productImg/sofa1c2.jpeg",
+          "thumbnailImageSrc": "/productImg/sofa1c2.jpeg",
+          "alt": "img3",
+          "color": "#FFF3E3",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/sofa1p1.jpeg",
+          "thumbnailImageSrc": "/productImg/sofa1p1.jpeg",
+          "alt": "img2",
+          "color": "#FFB2FE",
+          "size": "l"
+        },
+        {
+          "itemImageSrc": "/productImg/sofa1w1.jpeg",
+          "thumbnailImageSrc": "/productImg/sofa1w1.jpeg",
+          "alt": "img1",
+          "color": "#fff",
+          "size": "xxl"
+        }
+      ],
+      "Like": 0,
+      "sku": "SS0d1",
+      "category": "sofas",
+      "proSpecification": "Embodying the raw, wayward spirit of rock and roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road. Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+      "additionalInfo": "  additionalInfo  additionalInfo  additionalInfo",
+      "review": "",
+      "rating": "",
+      "offprice": -10,
+      "relation": [
+        "sofa"
+      ],
+      "apprence": true
+    },
+    {
+      "id": "6",
+      "product": "Sofa GoodWell",
+      "image": {
+        "src": "img/image1.png",
+        "alt": "Syltherine"
+      },
+      "sortdes": "1234 578 325",
+      "price": 3000,
+      "details": "Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.",
+      "imagegallery": [
+        {
+          "itemImageSrc": "/productImg/sofa2blu.jpeg",
+          "thumbnailImageSrc": "/productImg/sofa2blu.jpeg",
+          "alt": "img1",
+          "color": "blue",
+          "size": "x"
+        },
+        {
+          "itemImageSrc": "/productImg/sofa2c.jpeg",
+          "thumbnailImageSrc": "/productImg/sofa2c.jpeg",
+          "alt": "img3",
+          "color": "#FFF3E3",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/sofa2p1.jpeg",
+          "thumbnailImageSrc": "/productImg/sofa2p1.jpeg",
+          "alt": "img2",
+          "color": "#FFB2FE",
+          "size": "l"
+        },
+        {
+          "itemImageSrc": "/productImg/sofa2dc.jpeg",
+          "thumbnailImageSrc": "/productImg/sofa2dc.jpeg",
+          "alt": "img1",
+          "color": "#B88E2F",
+          "size": "xxl"
+        }
+      ],
+      "Like": 0,
+      "sku": "SS0d1",
+      "category": "sofas",
+      "proSpecification": "Embodying the raw, wayward spirit of rock and roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road. Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+      "additionalInfo": "  additionalInfo  additionalInfo  additionalInfo",
+      "review": "",
+      "rating": "",
+      "offprice": -50,
+      "relation": [
+        "sofa"
+      ],
+      "apprence": true
+    },
+    {
+      "id": "7",
+      "product": "bed GoodWell",
+      "image": {
+        "src": "img/image1.png",
+        "alt": "Syltherine"
+      },
+      "sortdes": "1234 578 325",
+      "price": 20000,
+      "details": "Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound.",
+      "imagegallery": [
+        {
+          "itemImageSrc": "/productImg/bed1b.jpeg",
+          "thumbnailImageSrc": "/productImg/bed1b.jpeg",
+          "alt": "img1",
+          "color": "#000",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/bed1blu.jpeg",
+          "thumbnailImageSrc": "/productImg/bed1blu.jpeg",
+          "alt": "img3",
+          "color": "blue",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/bed1b2.jpeg",
+          "thumbnailImageSrc": "/productImg/bed1b2.jpeg",
+          "alt": "img2",
+          "color": "#000",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/bed1blu2.jpeg",
+          "thumbnailImageSrc": "/productImg/bed1blu2.jpeg",
+          "alt": "img1",
+          "color": "blue",
+          "size": "xxl"
+        },
+        {
+          "itemImageSrc": "/productImg/bed1y.jpeg",
+          "thumbnailImageSrc": "/productImg/bed1y.jpeg",
+          "alt": "img1",
+          "color": "yellow",
+          "size": "xxl"
+        },
+        {
+          "itemImageSrc": "/productImg/bedb3.jpg",
+          "thumbnailImageSrc": "/productImg/bedb3.jpg",
+          "alt": "img1",
+          "color": "#000",
+          "size": "xxl"
+        }
+      ],
+      "Like": 0,
+      "sku": "SS0d1",
+      "category": "sofas",
+      "proSpecification": "Embodying the raw, wayward spirit of rock and roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road. Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its className, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.",
+      "additionalInfo": "  additionalInfo  additionalInfo  additionalInfo",
+      "review": [
+        {
+          "reviewTxt": "good Bed to sleep",
+          "userRating": 3,
+          "user": "Sujata"
+        }
+      ],
+      "rating": 11,
+      "offprice": -50,
+      "relation": [
+        "bed"
+      ],
+      "apprence": true
+    }
+  ],
+  "cart": [
+    {
+      "count": 2,
+      "id": "3b11"
+    },
+    {
+      "id": "5e8f",
+      "user": "ss@ss.ss",
+      "ProductId": "1",
+      "image": "/productImg/dining1b1.jpeg",
+      "price": 2500,
+      "name": "Dining Greate Furniture",
+      "count": 1
+    },
+    {
+      "id": "9156",
+      "user": "ss@ss.ss",
+      "ProductId": "2",
+      "image": "/productImg/dining2r1.jpeg",
+      "price": 2500,
+      "name": "Dfdssf fsdfsdfhk hgfhgdshg",
+      "count": 2
+    },
+    {
+      "id": "d962",
+      "user": "sujata@ss.ss",
+      "ProductId": "1",
+      "color": [
+        {
+          "itemImageSrc": "/productImg/dining1w1.jpg",
+          "thumbnailImageSrc": "/productImg/dining1w1.jpg",
+          "alt": "img1",
+          "color": "#fff",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/dining1w2.jpeg",
+          "thumbnailImageSrc": "/productImg/dining1w2.jpeg",
+          "alt": "img1",
+          "color": "#fff",
+          "size": "xxl"
+        }
+      ],
+      "image": "/productImg/dining1w1.jpg",
+      "price": 2500,
+      "name": "Dining Greate Furniture",
+      "count": 1
+    },
+    {
+      "id": "c112",
+      "user": "sujata@ss.ss",
+      "ProductId": "6",
+      "color": [
+        {
+          "itemImageSrc": "/productImg/sofa2blu.jpeg",
+          "thumbnailImageSrc": "/productImg/sofa2blu.jpeg",
+          "alt": "img1",
+          "color": "blue",
+          "size": "x"
+        },
+        {
+          "itemImageSrc": "/productImg/sofa2c.jpeg",
+          "thumbnailImageSrc": "/productImg/sofa2c.jpeg",
+          "alt": "img3",
+          "color": "#FFF3E3",
+          "size": "xl"
+        },
+        {
+          "itemImageSrc": "/productImg/sofa2p1.jpeg",
+          "thumbnailImageSrc": "/productImg/sofa2p1.jpeg",
+          "alt": "img2",
+          "color": "#FFB2FE",
+          "size": "l"
+        },
+        {
+          "itemImageSrc": "/productImg/sofa2dc.jpeg",
+          "thumbnailImageSrc": "/productImg/sofa2dc.jpeg",
+          "alt": "img1",
+          "color": "#B88E2F",
+          "size": "xxl"
+        }
+      ],
+      "image": "/productImg/sofa2blu.jpeg",
+      "price": 3000,
+      "name": "Sofa GoodWell",
+      "count": 1
+    }
+  ]
+}
