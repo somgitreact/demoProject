@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-<h2>Please use "npx json-server db.json"  to run json server  (to show dynamic content)</h2>
+<h2>Please use "npx json-server db.json"  to run json server  (to see dynamic content)</h2>
